@@ -1,0 +1,15 @@
+body {
+    padding-top: 50px;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+#target {
+    font-size: 48px;
+    letter-spacing: 3px;
+}
+
+.info {
+    color:red;
+    letter-spacing: 2px;
+}
